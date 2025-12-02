@@ -1,3 +1,2 @@
-# healthcare-analytics-projects
- Researched and gathered [1000+] EHR adjacent patient reviews from  American Family Care Urgent Care facilities focusing on medical keywords to determine trends in the patient reviews. Leveraged insights to make recommendations to the facility management, notably around wait times, understanding of doctors, cleanliness to identify quality-of-care trends aligned with CMS patient experience domains. 
-
+# data-analytics-projects
+ This repository showcases a collection of data analytics projects focused on healthcare quality, patient experience, and applied statistical analysis. Each project demonstrates end-to-end analytical workflows—including data cleaning, multi-table integration, exploratory analysis, visualization, and the use of Python, R, SQL, and NLP techniques to generate meaningful insights. Together, these projects highlight my ability to transform complex datasets into clear, actionable findings that support decision-making across clinical, operational, and organizational setting
